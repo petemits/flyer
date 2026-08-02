@@ -7,7 +7,7 @@
 **Entry Point**: `not detected`  
 **Codebase**: 1 source files, 227 lines of production‑ready code  
 **Architecture**: Object‑oriented  
-**Key Components**: 1 class(es): VectorFlyerGenerator, 7 function(s): generate_flyer, __init__, add_mathematical_elements, add_vector_patterns, main
+**Key Components**: 1 class(es): VectorFlyerGenerator, 7 function(s): generate_flyer, save_as_svg, add_mathematical_elements, add_vector_patterns, create_vector_flyer
 
 This project contains 1 class(es) and 7 function(s).
 
@@ -24,9 +24,9 @@ This project contains 1 class(es) and 7 function(s).
 - **Competitive Advantage**: Provides real‑time intelligence that outpaces competitors.
 - **Future‑Proof**: Designed to integrate with emerging AI and cloud technologies.
 
-## 🧠 My Approach: The AI Ethicist
+## 🧠 My Approach: The Full-Stack Pragmatist
 
-I build fair, transparent, and explainable AI. I mitigate bias, ensure privacy, and foster trust in algorithmic decisions.
+I span the entire stack – from database design to UI components. I make pragmatic choices that balance speed, cost, and quality.
 
 ### 📌 My Focus & Track Record
 - **Role**: AI Systems Integrator
@@ -38,7 +38,7 @@ I build fair, transparent, and explainable AI. I mitigate bias, ensure privacy, 
 ### 🎯 Why This Project Exists
 **flyer** is a direct reflection of this approach – a practical, battle‑tested component designed to solve a specific, high‑value business problem.
 
-**For Responsible AI Teams**: I ensure your AI does good, not harm.
+**For Growing Teams**: I am a versatile engineer who can fill gaps across the development lifecycle.
 
 I am open to conversations about how I can apply this mindset to your organisation.
 ## 🎯 Revenue‑Generating Use Cases
@@ -49,14 +49,11 @@ I am open to conversations about how I can apply this mindset to your organisati
 ## 💡 Benefits & Ecosystem Integration
 
 ### ✨ Key Benefits
-- Data‑Driven Decisions: Provides real‑time, accurate insights that inform strategic direction.
-- Low‑Latency Performance: Delivers near‑instantaneous responses for user‑facing applications.
-- User Retention: Enhances customer experience through personalisation and faster response times.
 - Cost Reduction: Lowers infrastructure and operational costs through intelligent automation.
-- Reduced Churn: Proactively identifies and addresses factors that cause customer attrition.
-- Improved Developer Productivity: Streamlines workflows, reduces boilerplate, and improves developer happiness.
-- Personalised Customer Experiences: Delivers tailored interactions based on user behaviour and preferences.
-- Continuous Deployment: Enables safe, automated, and frequent releases to production.
+- Revenue Acceleration: Directly impacts top‑line growth by enabling faster time‑to‑market and personalisation.
+- Seamless Third‑Party Integration: Connects effortlessly with external services, extending your ecosystem.
+- High Availability & Uptime: Ensures mission‑critical systems are always accessible to users.
+- Global Reach: Enables multi‑region, multi‑language deployments for international audiences.
 - Actionable Business Insights: Transforms raw metrics into strategic intelligence.
 
 ### 🔗 Integrations
@@ -64,10 +61,9 @@ I am open to conversations about how I can apply this mindset to your organisati
 
 ## 📈 Scale to SaaS & Beyond
 
-- API Monetisation: Wrap the core logic in a REST/GraphQL API and sell access via a subscription model.
-- CI/CD Pipeline: Integrate GitHub Actions to automate testing and deployment with every commit.
 - Event‑Driven Architecture: Integrate with message queues (Kafka, RabbitMQ) for asynchronous workflows.
-- Cloud Deployment: Containerise with Docker and deploy to AWS, GCP, or Azure for global availability.
+- CI/CD Pipeline: Integrate GitHub Actions to automate testing and deployment with every commit.
+- API Monetisation: Wrap the core logic in a REST/GraphQL API and sell access via a subscription model.
 
 ## 🤖 AI Tools & Integrations (A–Z)
 
@@ -128,6 +124,24 @@ This project is designed to integrate seamlessly with a wide range of AI tools a
 | **ZenML** | MLOps framework for reproducible pipelines. |
 
 *This is a living list – new tools are constantly emerging. The modular design of this project makes it easy to plug in any AI service.*
+## 💻 AI Code Generation Tools (Free & Paid)
+
+To accelerate development, you can integrate these AI tools for code generation, autocompletion, and documentation. Pricing models are noted below.
+
+| Tool | Description | Pricing |
+| :--- | :--- | :--- |
+| **GitHub Copilot** | AI pair programmer. Free for open-source and verified students; paid plans from $10/month. | Freemium |
+| **Tabnine** | AI code completion for multiple languages. Free tier available; paid Pro from $12/month. | Freemium |
+| **Codeium** | AI-powered autocomplete and chat. Completely free for individual developers. | Free |
+| **Cursor** | AI-first code editor with built-in Copilot-like features. Free tier available; paid plans start at $20/month. | Freemium |
+| **Amazon CodeWhisperer** | AWS service for real‑time code suggestions. Free tier included; paid with AWS subscription. | Freemium |
+| **Replit Ghostwriter** | AI assistant in Replit's online IDE. Free tier included; paid plans from $7/month. | Freemium |
+| **Bito AI** | Code generation and explanation. Free for individuals; paid team plans. | Freemium |
+| **Sourcegraph Cody** | AI assistant for code understanding and generation. Free for individuals and open-source; paid for enterprise. | Freemium |
+| **Mintlify** | AI-powered documentation generator. Free tier; paid plans for teams. | Freemium |
+| **MightyMeld** | AI for React component generation. Free trial; paid plans from $15/month. | Freemium |
+
+*Most tools offer free tiers – perfect for personal projects and learning. Paid plans unlock higher limits and team features.*
 
 ## 📁 Project Structure
 ## 🚀 Full Program Guide (How to Run)
